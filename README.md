@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Tarek and I'm a Software Engineer 👨🏻‍💻 from Germany 🇩🇪</h2>
+<h2 align="left">Hi 👋! My name is Tarek and I'm a Software Engineer 👨🏻‍💻 from Germany</h2>
+<p>As almost all of my projects are currently private and/or closed-source, you probably wont find much here...</p>
 
 ###
 
